@@ -1,6 +1,6 @@
 # HTML-Repository
 This is a Repository for HTML of all kinds.
-#FAQ
+<h1>FAQ</h1>
 ###What's the Purpose?
 This is for people to learn HTML and just look at some cool stuff you can do with HTML.
 ###What is HTML/CSS?
